@@ -4,12 +4,12 @@ body {
 	font-family: sans-serif;
 }
 
-h2 {
+h1 {
 	text-align: center;
 }
 
 .library {
-	background-color: #fff;
+	background-color: rgb(46, 204, 113);
 	height: 20px;
 }
 .book {
@@ -21,13 +21,13 @@ h2 {
 	width: 200px;
 	margin: auto;
 }
-.book h3 {
+.book h2 {
 	margin: 0;
 	padding-left: 20px
 }
 
 .author {
-	color: #777777;
+	color: rgb(119, 199, 119);
 	margin: 0;
 	font-size: 15px;
 	padding-left: 20px
