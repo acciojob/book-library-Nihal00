@@ -32,8 +32,8 @@ h1 {
 	font-size: 15px;
 	padding-left: 20px
 }
-#price-block {
-	background-color: #2ecc71;
+.price-block {
+	background-color: rgb(46, 204, 113);
 	color: #fff;
 	border: none;
 	padding: 10px;
