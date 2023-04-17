@@ -34,10 +34,14 @@ h1 {
 }
 .price-block {
 	background-color: rgb(46, 204, 113);
-	color: #fff;
-	border: none;
 	padding: 10px;
 	margin: 0 20px 20px 20px;
 	border-radius: 8px;
 	cursor: pointer;
+}
+
+button {
+	background-color: rgb(46, 204, 113);
+	color: #fff;
+	border: none;
 }
